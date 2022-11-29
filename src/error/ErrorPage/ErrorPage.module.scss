@@ -1,0 +1,14 @@
+.errorPage {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  h4 {
+    font-size: 2rem;
+  }
+  img {
+    width: 10em;
+  }
+}
